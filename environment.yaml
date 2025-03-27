@@ -1,0 +1,9 @@
+name: churn-env
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - pip
+  - pip:
+      - inference-schema[numpy-support]
