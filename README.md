@@ -8,3 +8,10 @@ Tasks performed:
 5. Model Deployment
 
 Dataset source: Telco Customer Churn dataset from Kaggle.
+
+# Project Files
+
+1. Churn_data_analysis.ipynb): Full notebook with EDA, modeling, and evaluation  
+2. score.py: Azure deployment script  
+3. environment.yml: Dependencies for deployment  
+4. churn_model_pipeline.pkl: Trained pipeline model 
